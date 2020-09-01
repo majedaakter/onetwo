@@ -1,0 +1,46 @@
+.two {
+    height: 0px;
+    width: 0px;
+  
+    border:70px solid teal;
+    border-radius: 90px;
+   
+}
+
+
+.one {
+    height: 100px;
+    width:100px;
+  
+    border:50px solid teal;
+    border-radius: 100px;
+
+}
+.three {
+    height: 100px;
+    width:100px;
+  
+    border:50px solid teal;
+  border-top-left-radius: 100px;
+
+}
+
+
+.four {
+    height: 50px;
+    width:50px;
+  
+    border:50px inset rgb(38, 12, 158);
+ border: bottom- right- radius 10px ;
+
+}
+
+.five {
+    height: 100px;
+    width:100px;
+  
+    border-color:red;
+    border-width:20px;
+    border-style:dotted;
+
+}
